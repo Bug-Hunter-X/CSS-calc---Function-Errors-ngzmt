@@ -1,0 +1,9 @@
+/* bugSolution.css */
+#container {
+  width: calc(100% - 10px);
+}
+
+#another {
+  width: calc(50% - (20px + 10px));
+}
+/*Notice the explicit units (px) and proper parentheses in the corrected code*/
